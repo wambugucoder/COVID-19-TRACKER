@@ -19,7 +19,7 @@
     "react-toastify": "^6.0.8",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
-    "snyk": "^1.393.0"
+    "snyk": "^1.395.0"
   },
   "scripts": {
     "start": "react-scripts start",
